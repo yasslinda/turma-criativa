@@ -1,4 +1,8 @@
-header{
+.cabeçalho{
     background-color: rgb(158, 127, 189);
     color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
 }
