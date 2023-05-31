@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding: 0;
+}
 .cabeçalho{
     background-color: rgb(158, 127, 189);
     color: white;
@@ -6,3 +10,15 @@
     align-items: center;
     padding: 24px;
 }
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+
+
+
