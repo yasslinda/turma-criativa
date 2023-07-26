@@ -3,22 +3,30 @@
     padding: 0;
 }
 .cabeçalho{
-    background-color: rgb(178, 189, 127);
+    background-color: rgb(29, 80, 83);
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px;
 }
+.cabeçalho-imagem{
+    width: 10%;
+}
+
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
-.cabeçalho-imagem{
-    width: 10%;
+.escola-imagem{
+    width: 25%;
 }
-
-
-
-
+.escola {
+background-image:linear-gradient(#1D4E52,#59E4F7CE);
+ color: white;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 24px0;s
+}
