@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;
+    padding: 24px 0;
 }
 .cabeçalho-imagem{
     width: 10%;
@@ -19,14 +19,42 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
 .escola-imagem{
     width: 25%;
 }
+
 .escola {
 background-image:linear-gradient(#1D4E52,#59E4F7CE);
- color: white;
+ color: rgb(14, 1, 1);
  display: flex;
  justify-content: center;
  align-items: center;
  padding: 24px0;s
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.estudante{
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
 }
